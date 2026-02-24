@@ -1,0 +1,13 @@
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+*.log
+projects.txt
+projects.json
+p.json
+frontend/node_modules/
+frontend/dist/
+backend/node_modules/
+.firebase/
