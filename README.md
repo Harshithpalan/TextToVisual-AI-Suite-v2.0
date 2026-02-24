@@ -1,14 +1,7 @@
 # 🎨 TextToVisual AI Suite v2.0
 
 > A high-performance, modern AI visual platform that transforms text into cinematic imagery and intelligent system diagrams.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![React](https://img.shields.io/badge/Frontend-React%20(Vite)-blue)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Backend-Node.js-green)](https://nodejs.org/)
-[![Firebase](https://img.shields.io/badge/Storage-Firebase-orange)](https://firebase.google.com/)
-
----
-
+--
 ## ✨ Overview
 
 **TextToVisual AI Suite** is a dual-purpose application designed for creative and technical workflows. It leverages state-of-the-art AI models to provide two primary capabilities:
@@ -98,19 +91,3 @@ npm run install:all
 # Start both servers together
 npm run dev
 ```
-
-The frontend will be available at `http://localhost:5173` and the backend at `http://localhost:3000`.
-
----
-
-## 🛡️ License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 🤝 Contact
-
-**Harshith Palan** - [@GitHub](https://github.com/Harshithpalan)
-
-Project Link: [https://github.com/Harshithpalan/text-to-visual-ai](https://github.com/Harshithpalan/text-to-visual-ai)
